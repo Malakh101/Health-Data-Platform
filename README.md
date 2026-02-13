@@ -1,19 +1,37 @@
-# Health Data Platform
-This project simulates a real-world enterprise data environment handling multi-million record datasets.
-The goal was to:
+🏥 Healthcare Data Platform – End-to-End BI Implementation
+📌 Overview
+Designed and implemented a healthcare analytics platform simulating a multi-million record dataset workflow from raw CSV ingestion to BI dashboards.
 
-Standardize raw Excel data
-Design a normalized SQL schema
-Implement relational integrity
-Develop SSRS reports
-Create interactive Power BI dashboards
+🔄 Architecture
+CSV → SQL ETL → SSRS Reporting → Power BI Dashboard
 
+🛠 Technologies
+SQL Server
+SSRS
+Power BI
+DAX
+T-SQL
 
-Architecture Workflow
-Raw Excel Data → Data Cleaning → SQL Database → SSRS Reports → Power BI Dashboards
+🏗 Database Design
+(Insert ERD image here)
 
-Database Design
-3NF normalization
-Primary & Foreign Keys
+⚙ ETL Process
+Data profiling
+Standardization
+Null handling
+Relational modeling
 Index optimization
-Data validation rules
+
+📊 SSRS Reports
+(Insert screenshots)
+
+📈 Power BI Dashboards
+(Insert screenshots)
+
+⚡ Performance Optimization
+Indexing strategy implemented
+Reduced query execution time
+Optimized joins
+
+⚠ Disclaimer
+This project is a reconstructed portfolio case study using publicly available healthcare data. No proprietary information is included.
