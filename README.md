@@ -1,4 +1,4 @@
-# Enterprise-Data-Platform
+# Health Data Platform
 This project simulates a real-world enterprise data environment handling multi-million record datasets.
 The goal was to:
 
