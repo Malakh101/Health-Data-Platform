@@ -16,11 +16,11 @@ T-SQL
 (Insert ERD image here)
 
 ⚙ ETL Process
-Data profiling
-Standardization
-Null handling
-Relational modeling
-Index optimization
+  Data profiling
+  Standardization
+  Null handling
+  Relational modeling
+  Index optimization
 
 📊 SSRS Reports
 (Insert screenshots)
@@ -29,9 +29,9 @@ Index optimization
 (Insert screenshots)
 
 ⚡ Performance Optimization
-Indexing strategy implemented
-Reduced query execution time
-Optimized joins
+  Indexing strategy implemented
+  Reduced query execution time
+  Optimized joins
 
 ⚠ Disclaimer
 This project is a reconstructed portfolio case study using publicly available healthcare data. No proprietary information is included.
