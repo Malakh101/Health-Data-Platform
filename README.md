@@ -16,6 +16,7 @@ T-SQL
 🏗 Database Design
 (Insert ERD image here)
 
+
 ⚙ ETL Process
   Data profiling
   Standardization
