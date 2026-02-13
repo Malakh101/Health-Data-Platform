@@ -1,4 +1,4 @@
-🏥 Healthcare Data Platform – End-to-End BI Implementation
+🏥Healthcare Data Platform – End-to-End BI Implementation
 📌 Overview
 Designed and implemented a healthcare analytics platform simulating a multi-million record dataset workflow from raw CSV ingestion to BI dashboards.
 
