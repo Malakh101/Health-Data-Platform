@@ -14,8 +14,6 @@ DAX
 T-SQL
 
 🏗 Database Design
-(Insert ERD image here)
-
 
 ⚙ ETL Process
   Data profiling
@@ -25,10 +23,8 @@ T-SQL
   Index optimization
 
 📊 SSRS Reports
-(Insert screenshots)
 
 📈 Power BI Dashboards
-(Insert screenshots)
 
 ⚡ Performance Optimization
   Indexing strategy implemented
